@@ -9,7 +9,7 @@
 | loglizer  | [@ShilinHe](https://github.com/ShilinHe) [@zhujiem](https://github.com/zhujiem) | deep-loglizer | [@zbchern](https://github.com/zbchern)   |
 | logzip  |  [@JinYang88](https://github.com/JinYang88)  | Log3C   | [@ShilinHe](https://github.com/ShilinHe)  |
 | Drain3  | [@davidohana](https://github.com/davidohana) | AutoLog  | [@YichenLi00](https://github.com/YichenLi00) | 
-| hybridlog  | [@PinjiaHe](https://github.com/PinjiaHe) | LogPub  |  | 
+| hybridlog  | [@PinjiaHe](https://github.com/PinjiaHe) | LogPub  | [@zhjiang22](https://github.com/zhjiang22) | 
 
 ### 🌈 Call for contributions
 
