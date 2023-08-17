@@ -15,5 +15,5 @@
 
 We appreciate all the contributions to LOGPAI!
 + **Become a project contributor**: Submit a PR and get merged!
-+ **Become a project collaborator**: Make continous (multiple) contributions to a project!
++ **Become a project collaborator**: Make multiple major contributions and become a developer with push access!
 + **Become a organization member**: Create a new project and serve as the maintainer!
