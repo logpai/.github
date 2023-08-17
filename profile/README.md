@@ -1,19 +1,15 @@
+
 ## Welecome to LOGPAI 👋
 
 ### 👩‍💻 Maintainer List
 
-| Project | Maintainer | 
-|:------:|:--------|
-| loghub  | [@zhujiem](https://github.com/zhujiem)  |
-| logparser | [@zhujiem](https://github.com/zhujiem) [@PinjiaHe](https://github.com/PinjiaHe) | 
-| loglizer  | [@ShilinHe](https://github.com/ShilinHe) [@zhujiem](https://github.com/zhujiem) | 
-| deep-loglizer | [@zbchern](https://github.com/zbchern)   |
-| logzip  |  [@JinYang88](https://github.com/JinYang88)  | 
-| Drain3  | [@davidohana](https://github.com/davidohana) | 
-| Log3C   | [@ShilinHe](https://github.com/ShilinHe)  |
-| hybridlog  | [@PinjiaHe](https://github.com/PinjiaHe) | 
-| AutoLog  | [@YichenLi00](https://github.com/YichenLi00) | 
-| LogPub  |  | 
+| Project | Maintainer | Project | Maintainer | 
+|:------:|:--------| :------:|:--------|
+| loghub  | [@zhujiem](https://github.com/zhujiem)  | logparser | [@zhujiem](https://github.com/zhujiem) [@PinjiaHe](https://github.com/PinjiaHe) | 
+| loglizer  | [@ShilinHe](https://github.com/ShilinHe) [@zhujiem](https://github.com/zhujiem) | deep-loglizer | [@zbchern](https://github.com/zbchern)   |
+| logzip  |  [@JinYang88](https://github.com/JinYang88)  | Log3C   | [@ShilinHe](https://github.com/ShilinHe)  |
+| Drain3  | [@davidohana](https://github.com/davidohana) | AutoLog  | [@YichenLi00](https://github.com/YichenLi00) | 
+| hybridlog  | [@PinjiaHe](https://github.com/PinjiaHe) | LogPub  |  | 
 
 ### 🌈 Call for contributions
 
