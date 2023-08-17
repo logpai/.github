@@ -12,6 +12,7 @@
 | Drain3  | [@davidohana](https://github.com/davidohana) | 
 | Log3C   | [@ShilinHe](https://github.com/ShilinHe)  |
 | hybridlog  | [@PinjiaHe](https://github.com/PinjiaHe) | 
+| AutoLog  | [@YichenLi00](https://github.com/YichenLi00) | 
 | LogPub  |  | 
 
 ### 🌈 Call for contributions
