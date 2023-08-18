@@ -3,7 +3,7 @@
 
 ### 👩‍💻 Maintainer List
 
-| Project | Maintainer | Project | Maintainer | Project | Maintainer | 
+| Project | Owner | Project | Owner | Project | Owner | 
 |:------:|:--------| :------:|:--------| :------:|:--------|
 | loghub  | [@zhujiem](https://github.com/zhujiem)  | LogPub  | [@zhjiang22](https://github.com/zhjiang22) | bughub | [@zhujiem](https://github.com/zhujiem)   | 
 | hybridlog  | [@PinjiaHe](https://github.com/PinjiaHe) | logparser | [@zhujiem](https://github.com/zhujiem) [@PinjiaHe](https://github.com/PinjiaHe) |  Drain3  | [@davidohana](https://github.com/davidohana) |
