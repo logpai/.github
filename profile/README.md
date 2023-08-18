@@ -1,5 +1,5 @@
 
-## Welecome to LOGPAI 👋
+## Welcome to LOGPAI 👋
 
 ### 👩‍💻 Maintainer List
 
