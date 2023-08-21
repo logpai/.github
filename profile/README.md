@@ -6,7 +6,7 @@
 | Project | Maintainer | Project | Maintainer | Project | Maintainer | 
 |:------:|:--------| :------:|:--------| :------:|:--------|
 | loghub  | [@zhujiem](https://github.com/zhujiem)  | LogPub  | [@zhjiang22](https://github.com/zhjiang22) | bughub | [@zhujiem](https://github.com/zhujiem)   | 
-| hybridlog  | [@PinjiaHe](https://github.com/PinjiaHe) | logparser | [@zhujiem](https://github.com/zhujiem) [@PinjiaHe](https://github.com/PinjiaHe) |  Drain3  | [@davidohana](https://github.com/davidohana) |
+| hybridlogparser  | [@PinjiaHe](https://github.com/PinjiaHe) | logparser | [@zhujiem](https://github.com/zhujiem) [@PinjiaHe](https://github.com/PinjiaHe) |  Drain3  | [@davidohana](https://github.com/davidohana) |
 | loglizer  | [@ShilinHe](https://github.com/ShilinHe) [@zhujiem](https://github.com/zhujiem) | deep-loglizer | [@zbchern](https://github.com/zbchern)  | Log3C   | [@ShilinHe](https://github.com/ShilinHe)  |
 | logzip  |  [@JinYang88](https://github.com/JinYang88)  | AutoLog  | [@YichenLi00](https://github.com/YichenLi00) | LoggingDescriptions | [@PinjiaHe](https://github.com/PinjiaHe) |
 | LogAdvisor | [@zhujiem](https://github.com/zhujiem) | | | | 
