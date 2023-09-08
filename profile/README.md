@@ -43,7 +43,6 @@ We appreciate all the contributions to LOGPAI!
 + **Become a developer**: Make some significant contributions and then request for write access! [See how](https://github.com/orgs/logpai/discussions/2).
 + **Become a member**: Create a new project and serve as the maintainer! [See how](https://github.com/orgs/logpai/discussions/3).
 
-### 🌈 Join Wechat group
-Welcome to join our wechat group for discussions.
+### 🌈 Join Wechat discussion group
 
 ![Scan QR code](https://cdn.jsdelivr.net/gh/logpai/logpai.github.io@master/img/wechat.png)
