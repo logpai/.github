@@ -42,4 +42,3 @@ We appreciate all the contributions to LOGPAI!
 + **Become a contributor**: Submit a PR and get it merged! [See how](https://github.com/orgs/logpai/discussions/1).
 + **Become a developer**: Make some significant contributions and then request for write access! [See how](https://github.com/orgs/logpai/discussions/2).
 + **Become a member**: Create a new project and serve as the maintainer! [See how](https://github.com/orgs/logpai/discussions/3).
-+ 
