@@ -1,7 +1,7 @@
 
 ## Welcome to LOGPAI 👋
 
-The LOGPAI project has been awarded the [First IEEE Open Software Services Award](https://www.cse.cuhk.edu.hk/news/achievements/lyu-team-first-ieee-open-software-services-award/).:1st_place_medal:
+:1st_place_medal: The LOGPAI project has been awarded the [First IEEE Open Software Services Award](https://www.cse.cuhk.edu.hk/news/achievements/lyu-team-first-ieee-open-software-services-award/).
 
 ### 👩‍💻 Maintainer list
 
