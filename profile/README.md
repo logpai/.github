@@ -13,7 +13,7 @@
 | [AutoLog](https://github.com/logpai/AutoLog)  | [@YichenLi00](https://github.com/YichenLi00) |  |  |  |   | 
 
 <details>
- <summary>See more...</summary>
+ <summary>See archived projects...</summary>
 <table class="tg">
 <thead>
   <tr>
