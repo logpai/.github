@@ -10,7 +10,7 @@
 | [loghub](https://github.com/logpai/loghub)  | [@zhujiem](https://github.com/zhujiem)  | [loghub-2.0](https://github.com/logpai/loghub-2.0)  | [@zhjiang22](https://github.com/zhjiang22) | [bughub](https://github.com/logpai/bughub) | [@zhujiem](https://github.com/zhujiem)   | 
 | [logparser](https://github.com/logpai/logparser) | [@zhujiem](https://github.com/zhujiem) [@PinjiaHe](https://github.com/PinjiaHe) | [hybridlogparser](https://github.com/logpai/hybridlogparser)  | [@PinjiaHe](https://github.com/PinjiaHe) |  [Drain3](https://github.com/logpai/Drain3)  | [@davidohana](https://github.com/davidohana) |
 | [loglizer](https://github.com/logpai/loglizer)  | [@ShilinHe](https://github.com/ShilinHe) [@zhujiem](https://github.com/zhujiem) | [deep-loglizer](https://github.com/logpai/deep-loglizer) | [@zbchern](https://github.com/zbchern)  |  [logzip](https://github.com/logpai/logzip)  |  [@JinYang88](https://github.com/JinYang88) |
-| [AutoLog](https://github.com/logpai/AutoLog)  | [@YichenLi00](https://github.com/YichenLi00) |  |  |  |   | 
+| [AutoLog](https://github.com/logpai/AutoLog)  | [@YichenLi00](https://github.com/YichenLi00) | [LILAC](https://github.com/logpai/LILAC)  | [@zhjiang22](https://github.com/zhjiang22)  |  |   | 
 
 <details>
  <summary>See archived projects...</summary>
